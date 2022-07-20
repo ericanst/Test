@@ -22,7 +22,7 @@
 
 
 
-[问题解决](https://github.com/facebook/create-react-app/issues/12070)
+[问题解决](https://github.com/facebook/create-react-app/issues/12070) kenbankspeng
 
 `npm i less less-loader --save`
  
